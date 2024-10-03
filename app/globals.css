@@ -2,23 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-decoration: none;
-    border: none;
-    outline: none;
-    scroll-behavior: smooth;
-    font-family: "poppins", sans-serif;
-  }
-
-
-  html {
-    font-size: 60%;
-    overflow-x: hidden;
-    
-  }
-  body {
-    background: #3A6D8C;
+ body {
+    background: #135D66;
   }
